@@ -28,7 +28,7 @@
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
+  - [Personas, Empatia e Proposta de Valor](#personas-empatia-e-proposta-de-valor)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
     - [Requisitos Funcionais](#requisitos-funcionais)
@@ -130,14 +130,14 @@
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
-## Personas e Mapas de Empatia
+## Personas, Empatia e Proposta de Valor
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
+> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
+> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
+> e de forma personalizada todos os principais envolvidos com a solução almeja. 
 > 
 > Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
@@ -149,13 +149,17 @@
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
+> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
 > 
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Exemplo de Persona](images/persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+>
+> **Exemplo de Proposta de Valor**
+> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
 
 
 ## Histórias de Usuários
